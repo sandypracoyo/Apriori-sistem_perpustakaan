@@ -1,1 +1,1 @@
-# apriori_perpus
+Siperpus-apriori ini merupakan implementasi dari algoritma apriori dengan memanfaatkan data dari peminjaman di perpustakaan,sehingga nanti nya data yang proses dapat direkomendasikan untuk penempatan buku di rak perpustakaan.
